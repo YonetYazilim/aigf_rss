@@ -1,2 +1,2 @@
-# aigf_rss
+# AIGF AJANS HABER ÇEKMEK İÇİN XML DÖKÜMANI
 AIGF Ajans RSS Beslemesi
